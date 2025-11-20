@@ -2,6 +2,6 @@
 
 ## DA&ML Basics - Create an EDA
 
-## DA&ML Basics - Create an EDA
+## CRISP-DM Model with Titanic Dataset
 
 ## DA&ML Basics - Create an EDA
