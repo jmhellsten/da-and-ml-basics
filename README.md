@@ -4,4 +4,4 @@
 
 ## CRISP-DM Model with Titanic Dataset
 
-## DA&ML Basics - Create an EDA
+## CRISP-DM Phase 2 - Data Understanding
